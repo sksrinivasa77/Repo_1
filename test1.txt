@@ -6,3 +6,6 @@
 12/03/2019  08:55 PM                 0 test1.txt
                1 File(s)              0 bytes
                0 Dir(s)  427,643,322,368 bytes free
+this is the new test 
+
+learning git
